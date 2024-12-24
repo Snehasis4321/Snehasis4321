@@ -19,7 +19,7 @@
 <div styles="display:flex; flex-direction: row;">
   
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height=200 width=200>
-<img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" height=200 width=200>
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height=200 width=200>
 </div>
 
 
