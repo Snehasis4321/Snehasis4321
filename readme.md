@@ -16,6 +16,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasis4321&" alt="snehasis4321" /></p>
 
 <h3 align="left">🎖 Some Certifications :</h3>
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height=250 width=250>
+<div styles="display:flex; flex-direction: row;">
+  
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height=200 width=200>
+<img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" height=200 width=200>
+</div>
 
 
